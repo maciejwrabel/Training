@@ -1,6 +1,6 @@
 # Training
 
-This repository contains tasks that will help me establish my basic JAVA programming skils.
+This repository contains tasks that will help me establish my basic JAVA programming skills.
 
 # List of exercises
 
