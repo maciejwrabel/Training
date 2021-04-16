@@ -1,10 +1,10 @@
 # Training
 List of exercises
 
-* [J18](#J18)
-* [J18_1](#J18_1)
-* [J19](#J19)
-* [Tic-tac-toe game (J19_2)](#J19_2)
+* [J18, One-dimensional array](#J18)
+* [J18_1, One-dimensional array](#J18_1)
+* [J19, One-dimensional array](#J19)
+* [J19_2, Tic-Tac-Toe Game](#J19_2)
 
 
 
@@ -29,6 +29,6 @@ Task:
 
 ## J19_2
 
-Tic-tac-toe game
+Tic-Tac-Toe Game
 
 
