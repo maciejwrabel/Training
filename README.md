@@ -4,7 +4,7 @@ List of exercises
 * [J18](#J18)
 * [J18_1](#J18_1)
 * [J19](#J19)
-* [J19_1](#J19_1)
+* [J19_2 - Tic-tac-toe game](#J19_2 - Tic-tac-toe game)
 
 
 
@@ -27,4 +27,8 @@ Task:
   5. Find how many numbers is biger than avarage and how many numbers is smaler than avarage.
   6. Shows numbers in reverse order.
 
-## J19_1
+## J19_2
+
+Tic-tac-toe game
+
+
