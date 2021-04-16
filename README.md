@@ -4,7 +4,7 @@ List of exercises
 * [J18](#J18)
 * [J18_1](#J18_1)
 * [J19](#J19)
-* [J19_2 - Tic-tac-toe game](#J19_2 - Tic-tac-toe game)
+* [Tic-tac-toe game (J19_2)](#J19_2)
 
 
 
