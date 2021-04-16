@@ -20,15 +20,19 @@ Program asks 5 times about names. Then program adds names to the table and shows
 ## J19
 
 Task:
-  1. Create one-dimensional array and fill it with 10 random integer numbers from -10 to 10.
-  2. Display all numbers in console.
-  3. Find min and max of this array.
-  4. Find avarage of all numbers.
-  5. Find how many numbers is biger than avarage and how many numbers is smaler than avarage.
-  6. Shows numbers in reverse order.
+  1. Create one-dimensional array and fill it with 10 random integer numbers from -10 to 10
+  2. Display all numbers in console
+  3. Find min and max of this array
+  4. Find avarage of all numbers
+  5. Find how many numbers is biger than avarage and how many numbers is smaler than avarage
+  6. Shows numbers in reverse order
 
 ## J19_2
 
 Tic-Tac-Toe Game
+
+  1. Classic game rules
+  2. Array 3x3
+  3. Coordinates specified with e.g. 00 or 11
 
 
