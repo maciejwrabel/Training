@@ -9,6 +9,10 @@ List of exercises
 
 
 ## J18
+
+We have two tables, 3 integer numbers in each table.
+The program should display the sum of all numbers from both arrays.
+
 ## J18_1
 ## J19
 ## J19_1
