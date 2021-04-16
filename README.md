@@ -1,12 +1,15 @@
 # Training
-List of exercises
+
+This repository contains tasks that will help me establish my basic JAVA programming skils.
+
+# List of exercises
 
 * [J18, One-dimensional array](#J18)
 * [J18_1, One-dimensional array](#J18_1)
 * [J19, One-dimensional array](#J19)
 * [J19_2, Tic-Tac-Toe Game](#J19_2)
 
-
+# Exercises
 
 ## J18
 
