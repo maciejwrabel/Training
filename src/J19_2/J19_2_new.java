@@ -92,9 +92,17 @@ public class J19_2_new {
                 System.out.println();
                 System.out.println("The end of the game");
                 break;
+
+            } else {
+                if (game[0][0] != 0 && game[0][1] != 0 && game[0][2] != 0 &&
+                        game[1][0] != 0 && game[1][1] != 0 && game[1][2] != 0 &&
+                        game[2][0] != 0 && game[2][1] != 0 && game[2][2] != 0) {
+                    System.out.println();
+                    System.out.println("DRAW");
+                    break;
+                }
+                System.out.println();
             }
-            System.out.println();
         }
     }
 }
-
